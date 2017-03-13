@@ -20,6 +20,7 @@
   "engines": {
     "node": ">=6"
   },
+  "repository": "brenoc/parse-es6-imports",
   "license": "MIT",
   "devDependencies": {
     "jest": "^19.0.2"
