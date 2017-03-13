@@ -26,6 +26,7 @@ const result = parseImports(code)
 
 console.log(JSON.stringify(result, null, 2))
 
+// [
 //   {
 //     "defaultImport": "defaultA",
 //     "namedImports": [],
