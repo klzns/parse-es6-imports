@@ -1,0 +1,27 @@
+{
+  "name": "parse-es6-imports",
+  "version": "0.1.0",
+  "description": "Parse ES6 imports from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "parse",
+    "es6",
+    "import",
+    "imports",
+    "string"
+  ],
+  "author": {
+    "name": "Breno Calazans",
+    "email": "brenocalazans@gmail.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
