@@ -1,6 +1,6 @@
 {
   "name": "parse-es6-imports",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Parse ES6 imports from a string",
   "main": "index.js",
   "scripts": {
