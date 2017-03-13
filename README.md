@@ -1,4 +1,4 @@
-# parse-es6-imports
+# parse-es6-imports [![Build Status](https://travis-ci.org/brenoc/parse-es6-imports.svg?branch=master)](https://travis-ci.org/brenoc/parse-es6-imports)
 
 > Parse ES6 imports from a string
 
